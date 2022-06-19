@@ -1,5 +1,5 @@
 <br/>
-<p align="center">
+
   <a href="https://github.com/hasanyatar/MasterCook-design"></a>
 
   <h1 align="center">Master Cook UI</h1>
@@ -23,6 +23,8 @@
 
 ![Forks](https://img.shields.io/github/forks/hasanyatar/MasterCook-design?style=social) ![Stargazers](https://img.shields.io/github/stars/hasanyatar/MasterCook-design?style=social) ![Issues](https://img.shields.io/github/issues/hasanyatar/MasterCook-design) ![License](https://img.shields.io/github/license/hasanyatar/MasterCook-design) 
 
-
 # UI Design
-<img src="https://github.com/hasanyatar/MasterCook-design/blob/main/mastercook.gif" width="300">
+
+<p align="center">
+<img src="https://github.com/hasanyatar/MasterCook-design/blob/main/mastercook.gif" width="640">
+</p>
