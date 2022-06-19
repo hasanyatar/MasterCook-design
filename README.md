@@ -19,10 +19,11 @@
   </p>
   
 </p>
-### UI Design
-<img src="./mastercook.gif" width="300">
+
 
 
 ![Forks](https://img.shields.io/github/forks/hasanyatar/MasterCook-design?style=social) ![Stargazers](https://img.shields.io/github/stars/hasanyatar/MasterCook-design?style=social) ![Issues](https://img.shields.io/github/issues/hasanyatar/MasterCook-design) ![License](https://img.shields.io/github/license/hasanyatar/MasterCook-design) 
 
- 
+
+### UI Design
+<img src="./mastercook.gif" width="300">
