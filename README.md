@@ -8,7 +8,7 @@
     An application that serves food from different countries
     <br/>
     <br/>
-    <a href="[https://github.com/hasanyatar/MasterCook-design/tree/main/master_cook]"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hasanyatar/MasterCook-design/tree/main/master_cook"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/ShaanCoding/MasterCook-design">View Demo</a>
