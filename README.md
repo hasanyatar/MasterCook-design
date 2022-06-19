@@ -1,8 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/ShaanCoding/MasterCook-design">
-    
-  </a>
+  <a href="https://github.com/ShaanCoding/MasterCook-design"></a>
 
   <h1 align="center">Master Cook UI</h1>
 
@@ -10,7 +8,7 @@
     An application that serves food from different countries
     <br/>
     <br/>
-    <a href="https://github.com/ShaanCoding/MasterCook-design"><strong>Explore the docs »</strong></a>
+    <a href="[https://github.com/hasanyatar/MasterCook-design/tree/main/master_cook]"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/ShaanCoding/MasterCook-design">View Demo</a>
