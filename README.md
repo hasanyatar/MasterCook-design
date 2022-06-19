@@ -26,4 +26,4 @@
 
 
 # UI Design
-<img src="./mastercook.gif" width="300">
+<img src="https://github.com/hasanyatar/MasterCook-design/blob/main/mastercook.gif" width="300">
