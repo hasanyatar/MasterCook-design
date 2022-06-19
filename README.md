@@ -4,7 +4,7 @@
     
   </a>
 
-  <h3 align="center">Master Cook UI</h3>
+  <h1 align="center">Master Cook UI</h1>
 
   <p align="center">
     An application that serves food from different countries
