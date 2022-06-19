@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "master_cook",
+            "cwd": "master_cook",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "master_cook (profile mode)",
+            "cwd": "master_cook",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "master_cook (release mode)",
+            "cwd": "master_cook",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

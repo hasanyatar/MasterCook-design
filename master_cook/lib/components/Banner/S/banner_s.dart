@@ -3,11 +3,7 @@ import 'package:flutter/material.dart';
 import '../../network_image_with_loader.dart';
 
 class BannerS extends StatelessWidget {
-  const BannerS(
-      {Key? key,
-      required this.image,
-      required this.press,
-      required this.children})
+  const BannerS({Key? key, required this.image, required this.press, required this.children})
       : super(key: key);
 
   final String image;
