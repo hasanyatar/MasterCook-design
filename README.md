@@ -26,13 +26,17 @@
 <h1 align="center">UI Design</h1>
 
 <p align="center">
-
-<img src="https://github.com/hasanyatar/MasterCook-design/blob/main/mastercook.gif" width="400">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/mastercook.gif" width="400">
+</p>
+<h1 align="center">Images</h1>
+<p float="center">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/login.png" width="300" alt="">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page1.png" width="300" alt="">
+</p>
+<p float="center">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page2.png" width="400">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page3.png" width="400">
 </p>
 
-![](https://github.com/hasanyatar/MasterCook-design/blob/main/login.png)  |  ![](https://github.com/hasanyatar/MasterCook-design/blob/main/page1.png)
-<img src="https://github.com/hasanyatar/MasterCook-design/blob/main/login.png" width="300" alt=""><img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page1.png" width="300" alt="">
 
-<img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page2.png" width="400">
-<img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page3.png" width="400">
 
