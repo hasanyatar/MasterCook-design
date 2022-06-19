@@ -18,7 +18,7 @@
     <a href="https://github.com/ShaanCoding/MasterCook-design/issues">Request Feature</a>
   </p>
 </p>
-
-![Downloads](https://img.shields.io/github/downloads/ShaanCoding/MasterCook-design/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/MasterCook-design?color=dark-green) ![Forks](https://img.shields.io/github/forks/ShaanCoding/MasterCook-design?style=social) ![Stargazers](https://img.shields.io/github/stars/ShaanCoding/MasterCook-design?style=social) ![Issues](https://img.shields.io/github/issues/ShaanCoding/MasterCook-design) ![License](https://img.shields.io/github/license/ShaanCoding/MasterCook-design) 
+![Preview UI](/mastercook.gif)
+(https://img.shields.io/github/contributors/ShaanCoding/MasterCook-design?color=dark-green) ![Forks](https://img.shields.io/github/forks/ShaanCoding/MasterCook-design?style=social) ![Stargazers](https://img.shields.io/github/stars/ShaanCoding/MasterCook-design?style=social) ![Issues](https://img.shields.io/github/issues/ShaanCoding/MasterCook-design) ![License](https://img.shields.io/github/license/ShaanCoding/MasterCook-design) 
 
  
