@@ -32,8 +32,8 @@
 <h1 align="center">Images</h1>
 
 <p float="center">
-  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/login.png" width="250">
-  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page1.png" width="250">
-  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page2.png" width="250">
-  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page3.png" width="250">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/login.png" width="240">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page1.png" width="240">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page2.png" width="240">
+  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/page3.png" width="240">
 </p>
