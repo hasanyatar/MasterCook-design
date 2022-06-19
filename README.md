@@ -17,7 +17,6 @@
     .
     <a href="https://github.com/hasanyatar/MasterCook-design/issues">Request Feature</a>
   </p>
-  <img src="https://github.com/hasanyatar/MasterCook-design/blob/main/mastercook.gif" width="300">
 </p>
 
 
